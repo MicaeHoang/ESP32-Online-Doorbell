@@ -86,9 +86,9 @@ This project features a **Web Portal / Access Point (AP)** mode for easy setup w
 
 | Hardware Assembly | Telegram Chat & Snapshot |
 | :---: | :---: |
-| <img src="images/hardware.jpg" width="400" alt="Hardware Assembly"> | <img src="images/telegram_demo.png" width="300" alt="Telegram App Demo"> |
+| <img src="images/hardware.jpg" width="250" alt="Hardware Assembly"> | <img src="images/telegram_demo.png" width="200" alt="Telegram App Demo"> | <img src="images/telegram_demo1.png" width="200" alt="Telegram App Demo">
 
-> *Left: ESP32-S3 Doorbell unit with INMP441 & MAX98357A. Right: Telegram instant notification with snapshot and audio message.*
+> *Left: ESP32-S3 Doorbell unit with INMP441 & MAX98357A. Middle and Right: Telegram instant notification with snapshot and audio message.*
 
 # License
 Distributed under the MIT License. See `LICENSE` for more information.

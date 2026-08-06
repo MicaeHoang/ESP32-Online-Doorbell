@@ -94,4 +94,4 @@ This project features a **Web Portal / Access Point (AP)** mode for easy setup w
 Distributed under the MIT License. See `LICENSE` for more information.
 
 # Author
-* **Your Name** - [GitHub Profile](https://github.com/MicaeHoang)
+* **Tu Phuoc Hoang** - [GitHub Profile](https://github.com/MicaeHoang)
